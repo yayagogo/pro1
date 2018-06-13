@@ -1,0 +1,33 @@
+{
+    "nvhome": "home",
+    "nvfeatures": "features",
+    "nvgallery": "gallery",
+    "nvemail": "Subscribe",
+    "nvcontact": "contact",
+
+    "mtitle": "A new generation of side-chain platforms & complete ecosystem design for gambling business",
+    "mcontent": "our purpose is to build on an ecosystem fit for gambling games, which make the character of blockchian: anonymous p2p trading, decentralized, low cost  perfectly suitable for gambling business.",
+    "mwhitepaper": "whitepaper",
+    "mtelegram": "community",
+
+    "ftitle": "What is Bigplayer Network?",
+    "fproblem": "problem to solve",
+    "ftitle1": "Asset security",
+    "fcontent1": "digital asset trading operate on blockchain through smart contract+p2p trading. The amount store in smart contract, and payout according to logic result. Players' amount store in their personal wallet. No need to delegate to centralized platform, no need to worry about withdraw.",
+    "ftitle2": "Privacy security",
+    "fcontent2": "player don't need to set up personal account, give sensentive information such as their names, bankcard, phone no. The only information to give out is the address of the wallet, in addition and address can be changed, no need to worry about personal information disclose.",
+    "ftitle3": "Fairness",
+    "fcontent3": "games develop through smart contract, which deploy on blockchain to operate. Smart contract on block chain is open & transparent and cannot be amended. The game process is completely not being disturbed by 3rd party. Game result come out on Oracle machine, safe, fair and reliable.",
+    "ftitle4": "Low coast",
+    "fcontent4": "traditional games needs to deploy many decentralized sever to make centralized business service, which requires sever delegation, computer maintainance, network maintainance ect. However for games deployed on distributed blockchain, it only cost a little on deployment, which saves a lot on sever service and maintainance.",
+    "ftitle5": "Speed",
+    "fcontent5": "to solve the problem of slow trading speed and high cost. Bigplayer Network make status channel technique to build channel between player and platform. It reduces conformation times which cause by settlement chain, therefore improves TPS speed and reduces trading cost, player only need to wait a little while for channel building and when channel closes.",
+    "ftitle6": "Extensibility",
+    "fcontent6": "the character of unchangeable of blockchain make the game business difficult. Big player Network optimize business chain, standardize branching rule to lower branching cost make user friendly, separate the border of consensus layer and business layer, make game provider focus on R&D and no need to worry about reaching consensus .",
+
+    "gtitle": "Product",
+    "stitle": "Subscribe",
+
+    "awhite": "assets/pdf/BIGPLAYER_WHITEPAPER_EN.pdf",
+    "atelegram": "https://t.me/BigplayerOfficial"
+}

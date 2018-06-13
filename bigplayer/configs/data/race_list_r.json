@@ -1,0 +1,581 @@
+{
+    "team": {
+        "1": {
+            "name_zh": "阿根廷",
+            "name_en": ""
+        },
+        "2": {
+            "name_zh": "埃及",
+            "name_en": ""
+        },
+        "3": {
+            "name_zh": "澳大利亚",
+            "name_en": ""
+        },
+        "4": {
+            "name_zh": "巴拿马",
+            "name_en": ""
+        },
+        "5": {
+            "name_zh": "巴西",
+            "name_en": ""
+        },
+        "6": {
+            "name_zh": "比利时",
+            "name_en": ""
+        },
+        "7": {
+            "name_zh": "冰岛",
+            "name_en": ""
+        },
+        "8": {
+            "name_zh": "波兰",
+            "name_en": ""
+        },
+        "9": {
+            "name_zh": "丹麦",
+            "name_en": ""
+        },
+        "10": {
+            "name_zh": "德国",
+            "name_en": ""
+        },
+        "11": {
+            "name_zh": "法国",
+            "name_en": ""
+        },
+        "12": {
+            "name_zh": "哥伦比亚",
+            "name_en": ""
+        },
+        "13": {
+            "name_zh": "哥斯达黎加",
+            "name_en": ""
+        },
+        "14": {
+            "name_zh": "韩国",
+            "name_en": ""
+        },
+        "15": {
+            "name_zh": "克罗地亚",
+            "name_en": ""
+        },
+        "16": {
+            "name_zh": "秘鲁",
+            "name_en": ""
+        },
+        "17": {
+            "name_zh": "摩洛哥",
+            "name_en": ""
+        },
+        "18": {
+            "name_zh": "墨西哥",
+            "name_en": ""
+        },
+        "19": {
+            "name_zh": "尼日利亚",
+            "name_en": ""
+        },
+        "20": {
+            "name_zh": "葡萄牙",
+            "name_en": ""
+        },
+        "21": {
+            "name_zh": "日本",
+            "name_en": ""
+        },
+        "22": {
+            "name_zh": "瑞典",
+            "name_en": ""
+        },
+        "23": {
+            "name_zh": "瑞士",
+            "name_en": ""
+        },
+        "24": {
+            "name_zh": "塞尔维亚",
+            "name_en": ""
+        },
+        "25": {
+            "name_zh": "塞内加尔",
+            "name_en": ""
+        },
+        "26": {
+            "name_zh": "沙特阿拉伯",
+            "name_en": ""
+        },
+        "27": {
+            "name_zh": "突尼斯",
+            "name_en": ""
+        },
+        "28": {
+            "name_zh": "乌拉圭",
+            "name_en": ""
+        },
+        "29": {
+            "name_zh": "西班牙",
+            "name_en": ""
+        },
+        "30": {
+            "name_zh": "伊朗",
+            "name_en": ""
+        },
+        "31": {
+            "name_zh": "英格兰",
+            "name_en": ""
+        },
+        "32": {
+            "name_zh": "俄罗斯",
+            "name_en": ""
+        }
+    },
+    "race": [
+        {
+            "teams": [
+                32,
+                26
+            ],
+            "date_zh": "6月14日",
+            "time": "16:00",
+            "addr": "0xf13bD6e319f53FE1c4a742D4A059e569995f6405",
+            "head": true
+        },
+        {
+            "teams": [
+                2,
+                28
+            ],
+            "date_zh": "6月15日",
+            "time": "13:00",
+            "addr": "0xF13f212243ad269b4f394E9586409fb95ed76643",
+            "head": true
+        },
+        {
+            "teams": [
+                17,
+                30
+            ],
+            "date_zh": "6月15日",
+            "time": "16:00",
+            "addr": "0xf4896384992b58df9537d913Ab885cd55416Cb15"
+        },
+        {
+            "teams": [
+                20,
+                29
+            ],
+            "date_zh": "6月15日",
+            "time": "19:00",
+            "addr": "0x60CA2405f5d95Fa95915E6aE3eAA5411F80E9956"
+        },
+        {
+            "teams": [
+                11,
+                3
+            ],
+            "date_zh": "6月16日",
+            "time": "11:00",
+            "addr": "0xE70bC19e9eb65C09B8126e8A9d810Cb4BFBb8Be8",
+            "head": true
+        },
+        {
+            "teams": [
+                1,
+                7
+            ],
+            "date_zh": "6月16日",
+            "time": "14:00",
+            "addr": "0x77926a04f91BA4E40f55DcFcbABF2F00ecB8374F"
+        },
+        {
+            "teams": [
+                16,
+                9
+            ],
+            "date_zh": "6月16日",
+            "time": "17:00",
+            "addr": "0x4a1260FdE972ed82BC40910e6628b069e9207F4D"
+        },
+        {
+            "teams": [
+                15,
+                19
+            ],
+            "date_zh": "6月16日",
+            "time": "20:00",
+            "addr": "0x541cee661564669d78cE696317896c21d20D2C29"
+        },
+        {
+            "teams": [
+                13,
+                24
+            ],
+            "date_zh": "6月17日",
+            "time": "13:00",
+            "addr": "0x4B65F2d2ee8C0224491003D4719118BdAa3C08AB",
+            "head": true
+        },
+        {
+            "teams": [
+                10,
+                18
+            ],
+            "date_zh": "6月17日",
+            "time": "16:00",
+            "addr": "0xD068ee25B3D6392Ea766D6d65402B9E3D62E9c9B"
+        },
+        {
+            "teams": [
+                5,
+                23
+            ],
+            "date_zh": "6月17日",
+            "time": "19:00",
+            "addr": "0x44627b3a6919C717a7B7553dEB529AD15D733792"
+        },
+        {
+            "teams": [
+                22,
+                14
+            ],
+            "date_zh": "6月18日",
+            "time": "13:00",
+            "addr": "0x507ea44Ad9cA6b972d6872577BCe42Fc6170013a",
+            "head": true
+        },
+        {
+            "teams": [
+                6,
+                4
+            ],
+            "date_zh": "6月18日",
+            "time": "16:00",
+            "addr": "0x9c04204De3346bD426EA28c8019003f7F127FA2f"
+        },
+        {
+            "teams": [
+                27,
+                31
+            ],
+            "date_zh": "6月18日",
+            "time": "19:00",
+            "addr": "0x4D36c91bE76CA4D6E3B1acd275F2D5549Af27EE6"
+        },
+        {
+            "teams": [
+                8,
+                25
+            ],
+            "date_zh": "6月19日",
+            "time": "13:00",
+            "addr": "0x7A9c91dD43df0a427f93D40c6631e83dc0590456",
+            "head": true
+        },
+        {
+            "teams": [
+                12,
+                21
+            ],
+            "date_zh": "6月19日",
+            "time": "16:00",
+            "addr": "0x85E385e5653cA6196Fb2Ab1cE806fe05Bcb0900F"
+        },
+        {
+            "teams": [
+                32,
+                2
+            ],
+            "date_zh": "6月19日",
+            "time": "19:00",
+            "addr": "0x346aB81d459d80C750A79b3Ec7e6eC1C11B2ad86"
+        },
+        {
+            "teams": [
+                20,
+                17
+            ],
+            "date_zh": "6月20日",
+            "time": "13:00",
+            "addr": "0x1C52b2c8c11c1768FF6F979C8b57C3548De15a50",
+            "head": true
+        },
+        {
+            "teams": [
+                28,
+                26
+            ],
+            "date_zh": "6月20日",
+            "time": "16:00",
+            "addr": "0x2da8243B1f55bbE9f95cC7A585af9A2C48b8fd6B"
+        },
+        {
+            "teams": [
+                30,
+                29
+            ],
+            "date_zh": "6月20日",
+            "time": "19:00",
+            "addr": "0x459c1A9aaC622E57053bEBFfc94fdD65bFAeCF8B"
+        },
+        {
+            "teams": [
+                9,
+                3
+            ],
+            "date_zh": "6月21日",
+            "time": "13:00",
+            "addr": "0x5922b992Fd40CB38CAC4356114e043F982c25aDe",
+            "head": true
+        },
+        {
+            "teams": [
+                11,
+                16
+            ],
+            "date_zh": "6月21日",
+            "time": "16:00",
+            "addr": "0x4357195dF9D0Da18f870806E8c3ab2956842D691"
+        },
+        {
+            "teams": [
+                1,
+                15
+            ],
+            "date_zh": "6月21日",
+            "time": "19:00",
+            "addr": "0x414521aa76209151Fdc31678FABc5C2deBA9B255"
+        },
+        {
+            "teams": [
+                5,
+                13
+            ],
+            "date_zh": "6月22日",
+            "time": "13:00",
+            "addr": "0xc26299b533aDbA682d1bEBb1240e0446B0A7B105",
+            "head": true
+        },
+        {
+            "teams": [
+                19,
+                7
+            ],
+            "date_zh": "6月22日",
+            "time": "16:00",
+            "addr": "0x66e83a2c5Dcdb61760fd7a12FA789B180E0F59BE"
+        },
+        {
+            "teams": [
+                24,
+                23
+            ],
+            "date_zh": "6月22日",
+            "time": "19:00",
+            "addr": "0xDE3035e9bAA744a91437735B9f04C58f6F6dC09D"
+        },
+        {
+            "teams": [
+                6,
+                27
+            ],
+            "date_zh": "6月23日",
+            "time": "13:00",
+            "addr": "0x74164CAE9ceB34d8c1eB4849b4F021cA0056BE61",
+            "head": true
+        },
+        {
+            "teams": [
+                14,
+                18
+            ],
+            "date_zh": "6月23日",
+            "time": "16:00",
+            "addr": "0xc5A7d94F23d78897b34025b1338F1c7f3eaf705F"
+        },
+        {
+            "teams": [
+                10,
+                22
+            ],
+            "date_zh": "6月23日",
+            "time": "19:00",
+            "addr": "0xb3025027E56C23E5b1d87545fb63dcA45724Ca7C"
+        },
+        {
+            "teams": [
+                31,
+                4
+            ],
+            "date_zh": "6月24日",
+            "time": "13:00",
+            "addr": "0x4600ff50595d4188d85F208D3576556a02684912",
+            "head": true
+        },
+        {
+            "teams": [
+                21,
+                25
+            ],
+            "date_zh": "6月24日",
+            "time": "16:00",
+            "addr": "0x7A1f113607b2629d03c3FCb17fa9456E9F0b0373"
+        },
+        {
+            "teams": [
+                8,
+                12
+            ],
+            "date_zh": "6月24日",
+            "time": "19:00",
+            "addr": "0xD32B9E305b56E1149Ef093d7ebF6cd931851A61b"
+        },
+        {
+            "teams": [
+                28,
+                32
+            ],
+            "date_zh": "6月25日",
+            "time": "15:00",
+            "addr": "0xAfE85547eBb782FEd8d0E7cEB7d1CC8DD332F7e7",
+            "head": true
+        },
+        {
+            "teams": [
+                26,
+                2
+            ],
+            "date_zh": "6月25日",
+            "time": "15:00",
+            "addr": "0x16F16Bbd7F54676C670c3f3F9AaCB5eBB3B5928C"
+        },
+        {
+            "teams": [
+                30,
+                20
+            ],
+            "date_zh": "6月25日",
+            "time": "19:00",
+            "addr": "0x4DF24B4E2618742b896ffa7ADaFC0B44994c6924"
+        },
+        {
+            "teams": [
+                29,
+                17
+            ],
+            "date_zh": "6月25日",
+            "time": "19:00",
+            "addr": "0x53a21E9884571C76bE854F7b69dA6050747FeDB0"
+        },
+        {
+            "teams": [
+                9,
+                11
+            ],
+            "date_zh": "6月26日",
+            "time": "15:00",
+            "addr": "0x0826b9a9A99d85a422B6711fBb1a18D77F4bcc0b",
+            "head": true
+        },
+        {
+            "teams": [
+                3,
+                16
+            ],
+            "date_zh": "6月26日",
+            "time": "15:00",
+            "addr": "0x15c82461C610283C38faE3213031813c5127B1de"
+        },
+        {
+            "teams": [
+                7,
+                15
+            ],
+            "date_zh": "6月26日",
+            "time": "19:00",
+            "addr": "0xcF3b9A063BeC3E83D59F5ff01654AF1c1D5AEc28"
+        },
+        {
+            "teams": [
+                19,
+                1
+            ],
+            "date_zh": "6月26日",
+            "time": "19:00",
+            "addr": "0x72e9Ab9Ec9279d2bf81bC21b71909a3fE5A8f9Aa"
+        },
+        {
+            "teams": [
+                18,
+                22
+            ],
+            "date_zh": "6月27日",
+            "time": "15:00",
+            "addr": "0x8Ec8418c45A18447D4A1EfacFad2768e16b01A9E",
+            "head": true
+        },
+        {
+            "teams": [
+                14,
+                10
+            ],
+            "date_zh": "6月27日",
+            "time": "15:00",
+            "addr": "0x44213718724EB2C4f41229A5f1Bb4e6D5ab1BF5B"
+        },
+        {
+            "teams": [
+                24,
+                5
+            ],
+            "date_zh": "6月27日",
+            "time": "19:00",
+            "addr": "0x039091b699E41e185689c81d3074d920E2E09204"
+        },
+        {
+            "teams": [
+                23,
+                13
+            ],
+            "date_zh": "6月27日",
+            "time": "19:00",
+            "addr": "0xC309f85BA80650C5D84A789A505869Ed6E910774"
+        },
+        {
+            "teams": [
+                25,
+                12
+            ],
+            "date_zh": "6月28日",
+            "time": "15:00",
+            "addr": "0xB7cd45C43772e5F05c1219f51D319d1B5466F357",
+            "head": true
+        },
+        {
+            "teams": [
+                21,
+                8
+            ],
+            "date_zh": "6月28日",
+            "time": "15:00",
+            "addr": "0xce121BeEE61aE26A689AD5FFCC79Eedba366c13b"
+        },
+        {
+            "teams": [
+                4,
+                27
+            ],
+            "date_zh": "6月28日",
+            "time": "19:00",
+            "addr": "0x8FeAc02B0775a3642fD131a01AEe0eBEf509B98a"
+        },
+        {
+            "teams": [
+                31,
+                6
+            ],
+            "date_zh": "6月28日",
+            "time": "19:00",
+            "addr": "0x751c7e383182a293Be68F2eD019cFBa356B4C44F"
+        }
+    ]
+}

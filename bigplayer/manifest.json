@@ -1,0 +1,17 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.min.js",
+		"libs/modules/egret/egret.web.min.js",
+		"libs/modules/eui/eui.min.js",
+		"libs/modules/game/game.min.js",
+		"libs/modules/res/res.min.js",
+		"libs/modules/tween/tween.min.js",
+		"libs/third/web3/bin/web3.min.js",
+		"libs/third/collection/bin/collection.min.js",
+		"libs/third/firebase/bin/firebase.min.js",
+		"libs/third/wallet/bin/wallet.min.js"
+	],
+	"game": [
+		"main.min.js"
+	]
+}

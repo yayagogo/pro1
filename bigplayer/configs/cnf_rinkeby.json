@@ -1,0 +1,10 @@
+{
+    "url":"https://rinkeby.infura.io/lLKvrrkubCNQgDfltpuP",
+    "test_key":"0xe2f2b1b24e545e3a56cfcca3c8f04debdbb503a97bfe9fec8aa2579949299a68",
+    "test_owner":"0xeaec0aa34906df26d336b6a1c472969d3ffaba11",
+    "tokenAt":"0x28aa165087d695D61B5CDfADFb85c72632D321AF",
+    "freeAt":"0xcc1675D1A69BD91c853C495cAB26C1D63353df7e",
+    "roomer":"0xED6CB64750C533Edd6B34d86C47c7377DEe885AF",
+    "tokener":"0x61be11c33cd5132b3508C7294DF20C93B23Df023",
+    "rankUrl":"https://rinkeby.etherscan.io/token/generic-tokenholders2?a=0x28aa165087d695d61b5cdfadfb85c72632d321af&s=210000000000000000"
+}
