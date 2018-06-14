@@ -12,6 +12,6 @@
 		"libs/third/wallet/bin/wallet.min.js"
 	],
 	"game": [
-		"main.min-v1.js"
+		"main.min-v2.js"
 	]
 }
